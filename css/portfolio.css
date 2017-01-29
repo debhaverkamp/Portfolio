@@ -1,0 +1,53 @@
+body{
+  margin: 0 auto;
+  width: 100%;
+}
+
+.img-responsive{
+  width: 100%;
+}
+.work{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  font-weight: lighter;
+  color: #7d97ad;
+}
+
+.name{
+  width: 40%;
+  margin: 25px;
+  padding: 10px;
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: right;
+  font-weight: 100;
+  color: #2d3c49;
+  font-size: 60px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h4{
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-stretch: expanded;
+  font-size: 30px;
+  color: #2d3c49;
+}
+
+h3{
+  text-transform: uppercase;
+  text-align: right;
+  color: #2d3c49;
+}
+
+hr{
+  background-color: lightgray;
+  height: 5px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
