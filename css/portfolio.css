@@ -1,11 +1,13 @@
 body{
   margin: 0 auto;
   width: 100%;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .img-responsive{
   width: 100%;
 }
+
 .work{
   width: 100%;
   display: flex;
@@ -18,6 +20,7 @@ body{
   width: 40%;
   margin: 25px;
   padding: 10px;
+  font-family: "Abril Fatface", cursive;
 }
 
 h1{
@@ -26,7 +29,6 @@ h1{
   font-weight: 100;
   color: #2d3c49;
   font-size: 60px;
-  font-family: 'Abril Fatface', cursive;
 }
 
 h4{
@@ -49,5 +51,4 @@ hr{
   height: 5px;
   margin-left: auto;
   margin-right: auto;
-
 }
